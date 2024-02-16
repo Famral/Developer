@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://developer.famral.com/tools/</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/crc16.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/crc16_checksum.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/crc32.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/crc32_checksum.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/md2.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/md2_file_hash.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/md4.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/md4_file_hash.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/md5.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/md5_checksum.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/sha1.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/sha1_checksum.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/sha224.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/sha224_checksum.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/sha256.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/sha256_checksum.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/double_sha256.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/sha384.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/sha384_file_hash.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/sha512.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/sha512_file_hash.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/sha512_224.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/sha512_224_file_hash.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/sha512_256.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/sha512_256_file_hash.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/sha3_224.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/sha3_224_checksum.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/sha3_256.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/sha3_256_checksum.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/sha3_384.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/sha3_384_checksum.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/sha3_512.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/sha3_512_checksum.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/keccak_224.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/keccak_224_checksum.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/keccak_256.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/keccak_256_checksum.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/keccak_384.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/keccak_384_checksum.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/keccak_512.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/keccak_512_checksum.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/shake_128.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/shake_128_checksum.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/shake_256.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/shake_256_checksum.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/cshake128.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/cshake128_file_hash.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/cshake256.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/cshake256_file_hash.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/kmac128.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/kmac128_file_hash.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/kmac256.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/kmac256_file_hash.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/ripemd_128.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/ripemd_128_checksum.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/ripemd_160.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/ripemd_160_checksum.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/ripemd_256.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/ripemd_256_checksum.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/ripemd_320.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/ripemd_320_checksum.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/base32_encode.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/base32_decode.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/base32_encode_file.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/base32_decode_file.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/base58_encode.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/base58_decode.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/base58_encode_file.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/base58_decode_file.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/base64_encode.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/base64_decode.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/base64_encode_file.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/base64_decode_file.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/html_encode.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/html_decode.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/url_encode.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/url_decode.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developer.famral.com/tools/syntax_highlight.html</loc>
+  <lastmod>2024-02-16T19:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
